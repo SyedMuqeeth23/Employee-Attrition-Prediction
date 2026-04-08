@@ -1,4 +1,3 @@
-# Employee-Attrition-Prediction
 # 📊 Employee Attrition Prediction App
 
 ## 🚀 Overview
